@@ -1,0 +1,12 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+cache/
+
+# Downloaded data is re-created by each notebook; never commit raw data
+data/
+*/data/
+
+# Secrets
+.env
