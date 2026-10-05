@@ -7,6 +7,14 @@ Maps about water in and around Boston, made while learning Python for geospatial
 | 01 | [Stream gauges](01-points/) | Where are Massachusetts' rivers measured, and how many monitoring sites are still active? | GeoPandas, matplotlib, contextily | USGS Water Data · *in progress* |
 | 02 | [Charles River sinuosity](02-lines/) | How much does the Charles River meander between its source and Boston Harbor? | osmnx, projections, line lengths | OpenStreetMap · *in progress* |
 
+## Roadmap (October)
+
+- **03** — Rivers of New England, line width by stream order (HydroRIVERS)
+- **04** — River basins of Colombia (HydroBASINS + HydroRIVERS)
+- **05** — 3D relief of the Charles River basin (DEM + forge3d)
+
+Style inspired by [Milos Popovic](https://github.com/milos-agathon)'s river and terrain maps (he works mostly in R; I'm reproducing the ideas in Python).
+
 ## Run it yourself
 
 ```bash
