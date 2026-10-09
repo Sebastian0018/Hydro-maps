@@ -10,10 +10,10 @@ Maps about water in and around Boston, made while learning Python for geospatial
 ## Roadmap (October)
 
 - **03** — Rivers of New England, line width by stream order (HydroRIVERS)
-- **04** — River basins of Colombia (HydroBASINS + HydroRIVERS)
+- **04** — River basins of New England, rivers colored by basin (HydroBASINS + HydroRIVERS)
 - **05** — 3D relief of the Charles River basin (DEM + forge3d)
 
-Style inspired by [Milos Popovic](https://github.com/milos-agathon)'s river and terrain maps (he works mostly in R; I'm reproducing the ideas in Python).
+Goal: combine 03 + 04 + 05 into one Milos-style New England map (basin colors + shaded relief + rivers by order). Style inspired by [Milos Popovic](https://github.com/milos-agathon)'s river and terrain maps (he works mostly in R; I'm reproducing the ideas in Python).
 
 ## Run it yourself
 
